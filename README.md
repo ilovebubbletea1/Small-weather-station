@@ -9,7 +9,7 @@ Here’s a list of the parts to you need to build the circuit:
 
 -- AHT20
 
-#Sensor Overview:
+# Sensor Overview:
 
 ----BMP280----
 
@@ -37,9 +37,9 @@ Supply voltage:  DC : 2.2 - 5.5V
 
 Interface : I²C
 
-#How to wired
+# How to wired
 
-AHT20
+---AHT20---
 
 SDA----D21
 
@@ -49,7 +49,7 @@ GND----GND
 
 VIN----3v3
 
-BMP280
+---BMP280---
 
 SDA----D21
 
