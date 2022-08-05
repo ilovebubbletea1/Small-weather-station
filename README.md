@@ -41,9 +41,9 @@ Interface : I²C
 
 ---AHT20---
 
-SDA----D21
+SDA----D21   for other Arduino(A4)
 
-SCL----D22
+SCL----D22   for other Arduino(A5)
 
 GND----GND
 
@@ -51,9 +51,9 @@ VIN----3v3
 
 ---BMP280---
 
-SDA----D21
+SDA----D21   for other Arduino(A4)
 
-SCL----D22
+SCL----D22   for other Arduino(A5)
 
 GND----GND
 
