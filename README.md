@@ -5,9 +5,9 @@ Build a small weather station using ESP32 and Arduino IoT cloud
 Here’s a list of the parts to you need to build the circuit:
 -- ESP32Cancel changes
 
--- BMP280
+-- BMP280 --
 
--- AHT20
+-- AHT20 --
 
 # Sensor Overview:
 
